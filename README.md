@@ -1,7 +1,10 @@
-#first
+# first
+optional(vir env)
+
+pip install -r requirement.txt
 
 add your openaikey 
 
-#optional
+# optional
 
 add any usefulkey at env and tell gpt in system promote
