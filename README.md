@@ -1,7 +1,7 @@
 # first
 optional(vir env)
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 add your openaikey 
 
